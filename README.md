@@ -1,4 +1,4 @@
-#Basics of scripting in Python
+# Basics of scripting in Python
 
 
 In Python, libraries and modules are essential components that allow developers to extend the functionality of their programs. Modules are smaller units of code that can be imported into a script, while libraries encompass a collection of related modules.
